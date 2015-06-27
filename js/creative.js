@@ -3,11 +3,7 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-/*var #portfolio = {on.click.alert('This page is not avaible at this time. Thank you!')};
-var #portfolio = function show_alert () {
-    alert('This page is not avaible at this time. Thank you!')
-}*/
-//I want to create an alert box
+
 (function($) {
     "use strict"; // Start of use strict
 
