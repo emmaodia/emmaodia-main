@@ -1,6 +1,5 @@
-Stutern Website Design Challenge
+This is my personal git account where I demo most of my work
 
-The website has: Parallax effect on scroll, Hamburger menu for mobile viewers and CSS-sprited images.
-Built using HTML5, CSS3 and JQuery.
+I use to learn, practice and spoil!!!
 
-Powered by bootstrap!
+I am intent on breaking things and moving very fast!!!
